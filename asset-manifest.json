@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.79a65f69.chunk.css",
+    "main.js": "/static/js/main.5481d768.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.d733170b.js",
+    "static/css/2.8bc447d3.chunk.css": "/static/css/2.8bc447d3.chunk.css",
+    "static/js/2.31279ba0.chunk.js": "/static/js/2.31279ba0.chunk.js",
+    "index.html": "/index.html",
+    "static/js/2.31279ba0.chunk.js.LICENSE.txt": "/static/js/2.31279ba0.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/Roboto-Medium.58a88fef.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d733170b.js",
+    "static/css/2.8bc447d3.chunk.css",
+    "static/js/2.31279ba0.chunk.js",
+    "static/css/main.79a65f69.chunk.css",
+    "static/js/main.5481d768.chunk.js"
+  ]
+}

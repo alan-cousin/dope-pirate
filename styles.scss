@@ -1,0 +1,41 @@
+.loading-container {
+  width            : 100%;
+  height           : 100%;
+  background-image : url('./images/loading.jpg');
+  background-repeat: no-repeat;
+  background-size  : 100% 100%;
+  z-index          : 100;
+}
+
+.bar-container {
+  width            : 30%;
+  height           : 8%;
+  position         : absolute;
+  left             : 50%;
+  top              : 82%;
+  transform        : translateX(-50%);
+  background-image : url('./images/loadingbar_base.png');
+  background-repeat: no-repeat;
+  background-size  : 100% 100%;
+}
+
+.rel_container {
+  width   : 100%;
+  height  : 100%;
+  position: relative;
+}
+
+
+.bar {
+  height                    : 42%;
+  width                     : 89.6%;
+  background-color          : #FFF;
+  position                  : absolute;
+  top                       : 50%;
+  left                      : 5.2%;
+  transform                 : translateY(-50%);
+  border-radius             : 50px;
+  border-top-right-radius   : 0;
+  border-bottom-right-radius: 0;
+  filter                    : blur(1px);
+}
